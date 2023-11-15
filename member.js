@@ -8,6 +8,7 @@ function skillsMember() {
             country: "USA",
         },
     };
+}
     // console.log(skills.name);
     // console.log(skills.age);
     // console.log(skills.skills);
